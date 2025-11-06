@@ -38,3 +38,8 @@ node index.js
 - 🎯 Dificuldade iniciante
 - 🧩 Aventura textual
 - 💻 JavaScript + POO
+
+---
+
+<img width="1217" height="651" alt="image" src="https://github.com/user-attachments/assets/3c1da6aa-518a-45d8-a976-c227a057ec50" />
+
