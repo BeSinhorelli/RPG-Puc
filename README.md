@@ -1,16 +1,19 @@
-
-#  Jogo de Aventura - O Diamante Perdido
+<h1 align="center"><strong>🎮 Jogo de Aventura - O Diamante Perdido</strong></h1>
 
 Um jogo de aventura textual em JavaScript com POO onde você explora ambientes, coleta itens e resolve quebra-cabeças para encontrar um diamante escondido.
 
 ## 🗺️ Mapa do Jogo
+
+---
+
 Hall ↔ Sala ↔ Quarto
 <br>
 ---------↕
 <br>
 ------Cozinha
 
-     
+---
+
 ## 🎮 Como Jogar
 
 ### Comandos Principais:
