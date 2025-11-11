@@ -6,11 +6,8 @@ Um jogo de aventura textual em JavaScript com POO onde você explora ambientes, 
 
 ---
 
-Hall ↔ Sala ↔ Quarto
-<br>
----------↕
-<br>
-------Cozinha
+<img width="846" height="433" alt="image" src="https://github.com/user-attachments/assets/24298e47-b76d-46f0-a788-df5963515b9a" />
+
 
 ---
 
